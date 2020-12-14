@@ -1,0 +1,1 @@
+INSERT INTO `commission` VALUES (1, 10.00, NULL, NULL);

@@ -1,0 +1,17 @@
+INSERT INTO `category_restaurant` VALUES (41, 8, 7);
+INSERT INTO `category_restaurant` VALUES (42, 9, 7);
+INSERT INTO `category_restaurant` VALUES (61, 2, 5);
+INSERT INTO `category_restaurant` VALUES (62, 5, 5);
+INSERT INTO `category_restaurant` VALUES (67, 6, 8);
+INSERT INTO `category_restaurant` VALUES (68, 7, 8);
+INSERT INTO `category_restaurant` VALUES (69, 4, 6);
+INSERT INTO `category_restaurant` VALUES (70, 3, 2);
+INSERT INTO `category_restaurant` VALUES (71, 4, 2);
+INSERT INTO `category_restaurant` VALUES (72, 2, 3);
+INSERT INTO `category_restaurant` VALUES (73, 3, 3);
+INSERT INTO `category_restaurant` VALUES (74, 4, 3);
+INSERT INTO `category_restaurant` VALUES (75, 4, 4);
+INSERT INTO `category_restaurant` VALUES (76, 5, 4);
+INSERT INTO `category_restaurant` VALUES (80, 3, 9);
+INSERT INTO `category_restaurant` VALUES (81, 5, 9);
+INSERT INTO `category_restaurant` VALUES (82, 7, 9);
