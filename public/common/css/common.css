@@ -1,0 +1,56 @@
+#login_modal label, #register_modal label {
+    font-size: .8rem;
+    font-family: sans-serif;
+}
+.dataTables_length select option {
+    background: #663e58;
+}
+.page-select option {
+     background: #3c2f42;
+ }
+.dataTables_actions {
+    display: none;
+}
+#users-table th, #users-table td {
+    text-align: center;
+}
+
+/* Restaurant page */
+.menu-image img {
+    width: 100%;
+    max-height: 200px;
+}
+
+.media-extra-body {
+    background: rgba(24,29,22,0.05);
+    padding: 5%;
+    border-radius: 7px;
+}
+.media-extra-actions {
+    padding: 5%;
+}
+.media-extra-actions .add, .media-extra-actions .subtract {
+    border: black dashed 1px;
+}
+.media-extra-actions .add:focus, .media-extra-actions .subtract:focus {
+    box-shadow: none;
+}
+.media-extra-actions .food-item-number {
+    padding: 0 2%;
+}
+.media-extra-actions #food_item_price {
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.payment-method-cards .lightgray {
+    background: lightgray;
+}
+#card_payment_info input[type=number]::-webkit-outer-spin-button,
+#card_payment_info input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#card_payment_info input[type=number] {
+    -moz-appearance:textfield;
+}
